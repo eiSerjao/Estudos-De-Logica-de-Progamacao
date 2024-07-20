@@ -1,0 +1,15 @@
+// Esse só definimos o valor do Pão
+torrar("Pão de forma intergral")
+// Esse definimos o valor Pão e Nome
+torrar("Pão de forma", "Leo")
+// Esse definimos os valores Pão, Nome e Valor
+torrar("Pão de forma", "Natalia", 6.25)
+// Opção NÃO RECOMENDADA caso a variavel de função não tiver valor 
+torrar("Pão de forma", "Undefined", "Undefined")
+
+function torrar(pao, nome = "cliente", valor = 12.90){
+  console.log("Torrada feita com " + pao + "!")
+  console.log("Este pão é de " + nome)
+  console.log("Valor total: " + valor)
+}
+
