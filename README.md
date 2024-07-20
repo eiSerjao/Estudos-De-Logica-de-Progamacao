@@ -8,22 +8,37 @@ O objetivo deste repositório é servir como um repositório pessoal de aprendiz
 
 ## Estrutura do Repositório
 
-- **Exercícios:** Pasta contendo diversos exercícios de lógica de programação resolvidos.
-- **Exemplos:** Exemplos práticos de código para diferentes conceitos de programação.
-- **Anotações:** Notas e explicações detalhadas sobre tópicos específicos.
+A estrutura do repositório é organizada nas seguintes pastas, cada uma correspondendo a um tópico específico estudado no curso:
+
+- **EstruturasdeControle:**
+  - **Descrição:** Contém exemplos e programas relacionados a estruturas de controle, como loops e condicionais.
+  - **Exemplo:** `EstruturasdeControle/` contém arquivos como `loops.js`, `condicionais.js`, etc.
+
+- **Funções:**
+  - **Descrição:** Inclui exemplos e programas focados em funções, abordando definições, chamadas e escopos.
+  - **Exemplo:** `Funções/` contém arquivos como `definicao_funcoes.js`, `chamadas_funcoes.js`, etc.
+
+- **IntroduçãoaLógicadeProgamação:**
+  - **Descrição:** Apresenta programas e exercícios básicos para iniciantes em lógica de programação.
+  - **Exemplo:** `IntroduçãoaLógicadeProgamação/` contém arquivos como `variaveis.js`, `primeiros_passos.js`, etc.
+
+- **Operadores:**
+  - **Descrição:** Reúne exemplos e programas que demonstram o uso de operadores aritméticos, lógicos e relacionais.
+  - **Exemplo:** `Operadores/` contém arquivos como `operadores_aritmeticos.js`, `operadores_logicos.js`, etc.
+
+Essa organização facilita a revisão de conteúdos específicos conforme necessário.
 
 ## Como Utilizar
 
 Para utilizar este repositório, basta clonar o projeto em sua máquina local utilizando o comando:
 
 ```bash
-git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
+git clone https://github.com/eiSerjao/Estudos-De-Logica-da-Progamacao.git
 ```
+
 Depois, navegue pelas pastas e arquivos para acessar o conteúdo desejado.
 
-## Contato
+### Contato
 Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato comigo através do e-mail: paulosergiobarrosdesouza@gmail.com.
 
 Obrigado por visitar o meu repositório de estudos. Espero que ele seja útil tanto para mim quanto para outros que estejam aprendendo lógica de programação!
-
-Certifique-se de substituir `SEU_USUARIO` e `SEU_REPOSITORIO` pelos valores corretos do seu repositório no GitHub.
